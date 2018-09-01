@@ -1,0 +1,29 @@
+.fontvermelha {
+color: red;
+
+}
+	
+.fontverde {
+color: green;
+
+}
+
+.fontnegrito {
+font-weight: bold;
+
+}
+
+.titulo {
+text-align: center;
+font-style: italic;
+color: red;
+font-size: 30px;
+text-decoration: underline;
+font-weight: bold;
+
+}
+
+.fontpadrao {
+font-family:arial;
+
+}
